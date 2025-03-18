@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MondayIntegration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f7f3e71b52f9de600bc25fc34eae42e6f60c7ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b5fff424fc2135a2c99f3fc7fd17372c2728f75")]
 [assembly: System.Reflection.AssemblyProductAttribute("MondayIntegration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MondayIntegration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

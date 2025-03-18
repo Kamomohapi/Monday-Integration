@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kamom\\Desktop\\Monday-Integration\\MondayIntegration\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA564A18-7974-45B2-9DF3-C58A925FBDEE}|MondayIntegration\\MondayIntegration.csproj|c:\\users\\kamom\\desktop\\monday-integration\\mondayintegration\\mondayintegration\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{EA564A18-7974-45B2-9DF3-C58A925FBDEE}|MondayIntegration\\MondayIntegration.csproj|solutionrelative:mondayintegration\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{EA564A18-7974-45B2-9DF3-C58A925FBDEE}|MondayIntegration\\MondayIntegration.csproj|c:\\users\\kamom\\desktop\\monday-integration\\mondayintegration\\mondayintegration\\docker.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EA564A18-7974-45B2-9DF3-C58A925FBDEE}|MondayIntegration\\MondayIntegration.csproj|solutionrelative:mondayintegration\\docker.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA564A18-7974-45B2-9DF3-C58A925FBDEE}|MondayIntegration\\MondayIntegration.csproj|c:\\users\\kamom\\desktop\\monday-integration\\mondayintegration\\mondayintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,14 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\kamom\\Desktop\\Monday-Integration\\MondayIntegration\\MondayIntegration\\Dockerfile",
-              "RelativeDocumentMoniker": "MondayIntegration\\Dockerfile",
-              "ToolTip": "C:\\Users\\kamom\\Desktop\\Monday-Integration\\MondayIntegration\\MondayIntegration\\Dockerfile",
-              "RelativeToolTip": "MondayIntegration\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-18T18:52:44.839Z",
+              "Title": "Docker.txt",
+              "DocumentMoniker": "C:\\Users\\kamom\\Desktop\\Monday-Integration\\MondayIntegration\\MondayIntegration\\Docker.txt",
+              "RelativeDocumentMoniker": "MondayIntegration\\Docker.txt",
+              "ToolTip": "C:\\Users\\kamom\\Desktop\\Monday-Integration\\MondayIntegration\\MondayIntegration\\Docker.txt",
+              "RelativeToolTip": "MondayIntegration\\Docker.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-18T19:04:52.605Z",
               "EditorCaption": ""
             },
             {
