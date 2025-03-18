@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamom\\source\\repos\\MondayIntegration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA564A18-7974-45B2-9DF3-C58A925FBDEE}|MondayIntegration\\MondayIntegration.csproj|c:\\users\\kamom\\source\\repos\\mondayintegration\\mondayintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA564A18-7974-45B2-9DF3-C58A925FBDEE}|MondayIntegration\\MondayIntegration.csproj|solutionrelative:mondayintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA564A18-7974-45B2-9DF3-C58A925FBDEE}|MondayIntegration\\MondayIntegration.csproj|c:\\users\\kamom\\source\\repos\\mondayintegration\\mondayintegration\\controllers\\mondaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA564A18-7974-45B2-9DF3-C58A925FBDEE}|MondayIntegration\\MondayIntegration.csproj|solutionrelative:mondayintegration\\controllers\\mondaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA564A18-7974-45B2-9DF3-C58A925FBDEE}|MondayIntegration\\MondayIntegration.csproj|c:\\users\\kamom\\source\\repos\\mondayintegration\\mondayintegration\\entities\\mondaywebhookpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA564A18-7974-45B2-9DF3-C58A925FBDEE}|MondayIntegration\\MondayIntegration.csproj|solutionrelative:mondayintegration\\entities\\mondaywebhookpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA564A18-7974-45B2-9DF3-C58A925FBDEE}|MondayIntegration\\MondayIntegration.csproj|c:\\users\\kamom\\source\\repos\\mondayintegration\\mondayintegration\\entities\\mondayevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA564A18-7974-45B2-9DF3-C58A925FBDEE}|MondayIntegration\\MondayIntegration.csproj|solutionrelative:mondayintegration\\entities\\mondayevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA564A18-7974-45B2-9DF3-C58A925FBDEE}|MondayIntegration\\MondayIntegration.csproj|c:\\users\\kamom\\source\\repos\\mondayintegration\\mondayintegration\\mondayintegration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA564A18-7974-45B2-9DF3-C58A925FBDEE}|MondayIntegration\\MondayIntegration.csproj|solutionrelative:mondayintegration\\mondayintegration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamom\\source\\repos\\MondayIntegration\\MondayIntegration\\Program.cs",
+              "RelativeDocumentMoniker": "MondayIntegration\\Program.cs",
+              "ToolTip": "C:\\Users\\kamom\\source\\repos\\MondayIntegration\\MondayIntegration\\Program.cs",
+              "RelativeToolTip": "MondayIntegration\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:12:51.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MondayWebhookPayload.cs",
+              "DocumentMoniker": "C:\\Users\\kamom\\source\\repos\\MondayIntegration\\MondayIntegration\\Entities\\MondayWebhookPayload.cs",
+              "RelativeDocumentMoniker": "MondayIntegration\\Entities\\MondayWebhookPayload.cs",
+              "ToolTip": "C:\\Users\\kamom\\source\\repos\\MondayIntegration\\MondayIntegration\\Entities\\MondayWebhookPayload.cs",
+              "RelativeToolTip": "MondayIntegration\\Entities\\MondayWebhookPayload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:49:31.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MondayEvent.cs",
+              "DocumentMoniker": "C:\\Users\\kamom\\source\\repos\\MondayIntegration\\MondayIntegration\\Entities\\MondayEvent.cs",
+              "RelativeDocumentMoniker": "MondayIntegration\\Entities\\MondayEvent.cs",
+              "ToolTip": "C:\\Users\\kamom\\source\\repos\\MondayIntegration\\MondayIntegration\\Entities\\MondayEvent.cs",
+              "RelativeToolTip": "MondayIntegration\\Entities\\MondayEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:46:33.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MondayIntegration",
+              "DocumentMoniker": "C:\\Users\\kamom\\source\\repos\\MondayIntegration\\MondayIntegration\\MondayIntegration.csproj",
+              "RelativeDocumentMoniker": "MondayIntegration\\MondayIntegration.csproj",
+              "ToolTip": "C:\\Users\\kamom\\source\\repos\\MondayIntegration\\MondayIntegration\\MondayIntegration.csproj",
+              "RelativeToolTip": "MondayIntegration\\MondayIntegration.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T13:45:23.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MondayController.cs",
+              "DocumentMoniker": "C:\\Users\\kamom\\source\\repos\\MondayIntegration\\MondayIntegration\\Controllers\\MondayController.cs",
+              "RelativeDocumentMoniker": "MondayIntegration\\Controllers\\MondayController.cs",
+              "ToolTip": "C:\\Users\\kamom\\source\\repos\\MondayIntegration\\MondayIntegration\\Controllers\\MondayController.cs",
+              "RelativeToolTip": "MondayIntegration\\Controllers\\MondayController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:39:50.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@MondayIntegration_HostAddress = http://localhost:5019
+
+GET {{MondayIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

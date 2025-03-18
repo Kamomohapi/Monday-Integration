@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qxYXwYvJIBUx5z4khZEHUZi/M2KPln/mt53Sx57MXhI=",
+  "Source": "MondayIntegration",
+  "BasePath": "_content/MondayIntegration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
